@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.herokuapp.theinternet.PositiveTests" time="9.758" tests="1" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.herokuapp.theinternet.PositiveTests" time="7.231" tests="1" errors="0" skipped="0" failures="1">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="TR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin"/>
-    <property name="sun.java.command" value="C:\Users\Meyse ŞAHİN\AppData\Local\Temp\surefire4571305437631497859\surefirebooter3553448573130161312.jar C:\Users\Meyse ŞAHİN\AppData\Local\Temp\surefire4571305437631497859 2021-06-04T16-04-43_367-jvmRun1 surefire3878900222691773823tmp surefire_06577386148997726283tmp"/>
+    <property name="sun.java.command" value="C:\Users\Meyse ŞAHİN\AppData\Local\Temp\surefire8988423656402708172\surefirebooter2437503619543679958.jar C:\Users\Meyse ŞAHİN\AppData\Local\Temp\surefire8988423656402708172 2021-06-05T16-02-49_374-jvmRun1 surefire16483983262067906255tmp surefire_010889755030262663913tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="PositiveTests"/>
     <property name="surefire.test.class.path" value="C:\Users\Meyse ŞAHİN\eclipse-workspace\selenium-for-beginners\target\test-classes;C:\Users\Meyse ŞAHİN\eclipse-workspace\selenium-for-beginners\target\classes;C:\Users\Meyse ŞAHİN\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\Meyse ŞAHİN\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Meyse ŞAHİN\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Meyse ŞAHİN\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\Meyse ŞAHİN\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\Meyse ŞAHİN\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\Meyse ŞAHİN\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\Meyse ŞAHİN\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\Meyse ŞAHİN\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Meyse ŞAHİN\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;"/>
@@ -35,7 +35,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Meyse ŞAHİN\AppData\Local\Temp\surefire4571305437631497859\surefirebooter3553448573130161312.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Meyse ŞAHİN\AppData\Local\Temp\surefire8988423656402708172\surefirebooter2437503619543679958.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.11+9-LTS-194"/>
@@ -62,18 +62,18 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="loginTest" classname="com.herokuapp.theinternet.PositiveTests" time="8.838">
+  <testcase name="loginTest" classname="com.herokuapp.theinternet.PositiveTests" time="6.85">
     <failure message="Actual page url is not the same as expected. expected [https://the-internet.herokuapp.com/secure] but found [http://the-internet.herokuapp.com/secure]" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: Actual page url is not the same as expected. expected [https://the-internet.herokuapp.com/secure] but found [http://the-internet.herokuapp.com/secure]
 	at com.herokuapp.theinternet.PositiveTests.loginTest(PositiveTests.java:44)
 ]]></failure>
     <system-out><![CDATA[Starting loginTest
 Page is opened.
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 19823
+    <system-err><![CDATA[Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 41295
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Haz 04, 2021 4:04:47 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+Haz 05, 2021 4:02:52 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>

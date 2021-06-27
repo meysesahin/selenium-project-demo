@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-06-04T13:04:45Z" name="Surefire suite" finished-at="2021-06-04T13:04:53Z" duration-ms="8842">
+  <suite started-at="2021-06-05T13:02:50Z" name="Surefire suite" finished-at="2021-06-05T13:02:57Z" duration-ms="6857">
     <groups>
     </groups>
-    <test started-at="2021-06-04T13:04:45Z" name="Surefire test" finished-at="2021-06-04T13:04:53Z" duration-ms="8842">
+    <test started-at="2021-06-05T13:02:50Z" name="Surefire test" finished-at="2021-06-05T13:02:57Z" duration-ms="6857">
       <class name="com.herokuapp.theinternet.PositiveTests">
-        <test-method signature="loginTest()[pri:0, instance:com.herokuapp.theinternet.PositiveTests@38c6f217]" started-at="2021-06-04T13:04:45Z" name="loginTest" finished-at="2021-06-04T13:04:53Z" duration-ms="8820" status="FAIL">
+        <test-method signature="loginTest()[pri:0, instance:com.herokuapp.theinternet.PositiveTests@38c6f217]" started-at="2021-06-05T13:02:50Z" name="loginTest" finished-at="2021-06-05T13:02:57Z" duration-ms="6834" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[Actual page url is not the same as expected. expected [https://the-internet.herokuapp.com/secure] but found [http://the-internet.herokuapp.com/secure]]]>
